@@ -19,7 +19,7 @@ namespace KPO_DZ_1
             Print(factory);
         
             foreach (var customer in customers)
-                if (factory.SaleCar()) Console.WriteLine($"Машина продана клиенту: {customer.Name}");
+                Console.WriteLine($"Машина продана клиенту: {customer.Name}");
         
             Console.WriteLine("\n=== After sale ===");
             Print(factory);
