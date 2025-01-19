@@ -1,0 +1,2 @@
+C:\Users\1\source\repos\KPO_DZ_1\KPO_DZ_1\obj\Debug\KPO_DZ_1.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\KPO_DZ_1\KPO_DZ_1\obj\Debug\KPO_DZ_1.csproj.CoreCompileInputs.cache
